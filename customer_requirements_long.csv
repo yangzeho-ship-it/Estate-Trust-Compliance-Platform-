@@ -1,0 +1,89 @@
+customer_type,Requirement,Count
+Advisor,Activity logs and versioned outputs,0
+Enterprise,Activity logs and versioned outputs,126
+Estate Planner,Activity logs and versioned outputs,0
+Indigenous Governance Office,Activity logs and versioned outputs,0
+Advisor,Beneficiary and distribution clarity with gap flags,0
+Enterprise,Beneficiary and distribution clarity with gap flags,0
+Estate Planner,Beneficiary and distribution clarity with gap flags,183
+Indigenous Governance Office,Beneficiary and distribution clarity with gap flags,0
+Advisor,Calculation appendix for deeper review,0
+Enterprise,Calculation appendix for deeper review,0
+Estate Planner,Calculation appendix for deeper review,189
+Indigenous Governance Office,Calculation appendix for deeper review,0
+Advisor,Compliance export packs,0
+Enterprise,Compliance export packs,133
+Estate Planner,Compliance export packs,0
+Indigenous Governance Office,Compliance export packs,0
+Advisor,Deterministic repeatable engine,0
+Enterprise,Deterministic repeatable engine,140
+Estate Planner,Deterministic repeatable engine,0
+Indigenous Governance Office,Deterministic repeatable engine,0
+Advisor,Deterministic show-your-work outputs,0
+Enterprise,Deterministic show-your-work outputs,0
+Estate Planner,Deterministic show-your-work outputs,0
+Indigenous Governance Office,Deterministic show-your-work outputs,152
+Advisor,"Deterministic, auditable logic",219
+Enterprise,"Deterministic, auditable logic",0
+Estate Planner,"Deterministic, auditable logic",0
+Indigenous Governance Office,"Deterministic, auditable logic",0
+Advisor,Explicit bypass vs through-estate mapping,0
+Enterprise,Explicit bypass vs through-estate mapping,0
+Estate Planner,Explicit bypass vs through-estate mapping,164
+Indigenous Governance Office,Explicit bypass vs through-estate mapping,0
+Advisor,"Exportable, meeting-ready reporting",0
+Enterprise,"Exportable, meeting-ready reporting",0
+Estate Planner,"Exportable, meeting-ready reporting",0
+Indigenous Governance Office,"Exportable, meeting-ready reporting",144
+Advisor,First-class Indigenous trust workflows,0
+Enterprise,First-class Indigenous trust workflows,0
+Estate Planner,First-class Indigenous trust workflows,0
+Indigenous Governance Office,First-class Indigenous trust workflows,145
+Advisor,Household intake in under 10 minutes,211
+Enterprise,Household intake in under 10 minutes,0
+Estate Planner,Household intake in under 10 minutes,0
+Indigenous Governance Office,Household intake in under 10 minutes,0
+Advisor,Meeting-ready answer screen,214
+Enterprise,Meeting-ready answer screen,0
+Estate Planner,Meeting-ready answer screen,0
+Indigenous Governance Office,Meeting-ready answer screen,0
+Advisor,One-click PDF/CSV export,201
+Enterprise,One-click PDF/CSV export,0
+Estate Planner,One-click PDF/CSV export,0
+Indigenous Governance Office,One-click PDF/CSV export,0
+Advisor,Predictable implementation and supportability,0
+Enterprise,Predictable implementation and supportability,128
+Estate Planner,Predictable implementation and supportability,0
+Indigenous Governance Office,Predictable implementation and supportability,0
+Advisor,Reliability in live meetings,230
+Enterprise,Reliability in live meetings,0
+Estate Planner,Reliability in live meetings,0
+Indigenous Governance Office,Reliability in live meetings,0
+Advisor,Role-based access and permissioning,0
+Enterprise,Role-based access and permissioning,136
+Estate Planner,Role-based access and permissioning,0
+Indigenous Governance Office,Role-based access and permissioning,0
+Advisor,Scenario comparisons that reuse existing data,213
+Enterprise,Scenario comparisons that reuse existing data,0
+Estate Planner,Scenario comparisons that reuse existing data,0
+Indigenous Governance Office,Scenario comparisons that reuse existing data,0
+Advisor,Single source of truth for estate flow logic,0
+Enterprise,Single source of truth for estate flow logic,0
+Estate Planner,Single source of truth for estate flow logic,181
+Indigenous Governance Office,Single source of truth for estate flow logic,0
+Advisor,Standardized outputs across teams,0
+Enterprise,Standardized outputs across teams,151
+Estate Planner,Standardized outputs across teams,0
+Indigenous Governance Office,Standardized outputs across teams,0
+Advisor,Traceability and versioning,0
+Enterprise,Traceability and versioning,0
+Estate Planner,Traceability and versioning,177
+Indigenous Governance Office,Traceability and versioning,0
+Advisor,Transparent Section 87 handling with explicit logic,0
+Enterprise,Transparent Section 87 handling with explicit logic,0
+Estate Planner,Transparent Section 87 handling with explicit logic,0
+Indigenous Governance Office,Transparent Section 87 handling with explicit logic,151
+Advisor,Workflows that respect governance and cultural context,0
+Enterprise,Workflows that respect governance and cultural context,0
+Estate Planner,Workflows that respect governance and cultural context,0
+Indigenous Governance Office,Workflows that respect governance and cultural context,126
